@@ -1,0 +1,31 @@
+body{
+    padding: 0px 0px 0px 0px ;
+    z-index: 0;
+    margin-left: 0;
+    margin-right: 0;
+}
+
+.nav-item{
+    background-color: azure;
+    border: 2px solid black;
+    border-collapse: collapse;
+    border-radius: 5px;
+    width: 100%;
+}
+
+h1{
+    padding: 20px 0px 10px 0px;
+}
+
+p,h2{
+    margin: 2px rgba(228, 240, 239, 0.575);
+}
+
+div.col-md{
+    background-color: rgba(162, 184, 184, 0.692);
+}
+
+
+.container {
+    max-width: 100%;
+}
