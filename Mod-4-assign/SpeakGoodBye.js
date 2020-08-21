@@ -21,7 +21,7 @@
 // 'byeSpeaker' on the global scope as well.
 // xxxx.xxxx = byeSpeaker;
 
-(function(window) {
+(function() {
 
     var speakWord = "Good Bye";
     var byeSpeaker ={};
@@ -31,4 +31,4 @@
 
     window.byeSpeaker=byeSpeaker;
 
-})(window);
+})();
